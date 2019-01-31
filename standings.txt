@@ -1,0 +1,15 @@
+rank      team                  wins losses pts
+1         Gobert_or_go_home     14 1  20459.80  
+2         White_Men_Can_Jump!   13 2  19589.10  
+3         Establish_Domantas    12 3  18735.40  
+4         Beal_or_no_Beal       9 6    18044.40 
+5         Big_Ballers           8 7    17760.40 
+6         The_Victor            7 8    17531.90 
+7         Tlk'n_'bout_Practice  7 8    17465.40 
+8         DaWisellFoShizzel     7 8    16655.50 
+9         Kawhi_So_Serious      7 8    16189.00 
+10        Your_pm_Was_Ass       6 9    17862.20 
+11        The_Walking_Dedmon    5 10  17071.70  
+12        Jeffrey's_Team        4 11  16210.40  
+13        Alphabet_Hoop         3 12  15969.20  
+14        Aftr_Me_Lucky_Charms  3 12  15904.80  
